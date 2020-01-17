@@ -1,4 +1,4 @@
-# Basic Python Continuous Integration (CI) With Cloud Source Repositories (CSR) and Google Cloud Build
+### Basic Python Continuous Integration (CI) With Cloud Source Repositories (CSR) and Google Cloud Build ###
 
 ## Overview
 This repo contains example code and instructions that show you how to use CSR and 
